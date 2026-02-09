@@ -21,7 +21,7 @@ $x_1, x_2, x_3$
 such that the **total number of their occurrences** in the array is maximized.
 
 If there are several suitable triples $(x_1, x_2, x_3)$, output the triple with the **minimum sum**
-$$ x_1 + x_2 + x_3.$$
+$$x_1 + x_2 + x_3.$$
 
 It is guaranteed that the array contains at least three distinct elements.
 
