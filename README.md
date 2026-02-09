@@ -1,4 +1,4 @@
-# SHAD_Preparation_Algorithms
+# Greedy Approach: Finding the Three Most Frequent Elements in an Array
 
 IN ENGLISH: 
 `map_4_the_most_mind_blowing_greedy_algorithm.cpp` solves in **O(n)** the following problem.
