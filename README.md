@@ -59,6 +59,7 @@ separated by spaces and printed in **increasing order**.
 
 **Input**
 6
+
 1 2 3 2 1 1
 
 **Output**
@@ -70,6 +71,7 @@ separated by spaces and printed in **increasing order**.
 
 **Input**
 6
+
 3 1 1 2 3 3
 
 **Output**
@@ -81,8 +83,11 @@ separated by spaces and printed in **increasing order**.
 
 **Input**
 8
+
 11 21 31 41 31 41 11 21
+
 **Output**
+
 11 21 31
 
 
