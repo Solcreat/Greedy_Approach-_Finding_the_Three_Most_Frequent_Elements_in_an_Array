@@ -422,8 +422,8 @@ $$2 + 2 + 2 = 6$$
 я добавил всего **одно дополнительное условие** для каждого элемента тройки:
 
 ```
-!(myMap[currentElement] > myMap[firstElement] ||
-  myMap[currentElement] > myMap[secondElement])
+!(myMap[currentElement] > myMap[{здесь располагается один элемент тройки}] ||
+  myMap[currentElement] > myMap[{здесь располагается второй элемент тройки}])
 ```
 Таким образом, это условие гарантирует, что:
 
